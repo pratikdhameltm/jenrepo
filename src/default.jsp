@@ -27,7 +27,7 @@
 
   <body>
     <tagfiles:header />
-    <div id="hate" class="DevOps">
+    <div id="hate" class="DevOps Learning">
       <h1 class="cover-heading">Does it have snakes?</h1>
       <p class="lead">A safety resource for snake haters.</p>
       <!--Intro -->
